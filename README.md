@@ -1,4 +1,4 @@
-# PowerBI-project---sales-insight
+# PowerBI_project - Dashboard for sales-insight
 PowerBi dashboard is created based on sales data.
 
 *Steps involved in creating a Power BI dashboard for sales insights using data from an SQL file :-*
