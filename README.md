@@ -1,7 +1,7 @@
 # PowerBI-project---sales-insight
 PowerBi dashboard is created based on sales data.
 
-###Steps involved in creating a Power BI dashboard for sales insights using data from an SQL file :-
+*Steps involved in creating a Power BI dashboard for sales insights using data from an SQL file :-*
 
 
 1. Connect to SQL Server: The first step is to connect to the SQL server where the sales data is stored. 
